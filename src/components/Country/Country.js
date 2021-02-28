@@ -1,5 +1,7 @@
 import React from 'react';
 import './Country.css'
+import Button from 'react-bootstrap/Button';
+import 'bootstrap/dist/css/bootstrap.min.css'
 const Country = (props) => {
     //console.log(props.country);
     const {name,flag,population}=props.country;
@@ -12,7 +14,7 @@ const Country = (props) => {
             <div className="detail">
                 <h2>{name}</h2>
                 <p>Population: {population}</p>
-                <button onClick={() => addToList(props.country)}>Add in List</button>
+                <Button onClick={() => addToList(props.country)} variant="danger">Add in List</Button>
             </div>
         </div>
     );
