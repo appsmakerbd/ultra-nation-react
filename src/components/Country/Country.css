@@ -1,0 +1,45 @@
+.country-box{
+    width:350px;
+    border: 1px solid lightskyblue;
+    margin: 5px 2px 0;
+    display: flex;
+    float: left;
+    height: 100px;
+    overflow: hidden;
+    text-align: left;
+}
+.country-box .flag{
+    width: 150px;
+    margin-right:5px;
+}
+.country-box .flag img{
+    width: 100%;
+}
+.country-box .detail{}
+.country-box .detail h2{
+    margin:0;
+    font-size:18px;
+    text-align: left;
+}
+.country-box .detail p{
+    line-height: 20px;
+    text-align: left;
+    margin:0
+}
+
+.country-box .detail button{
+    background-image: linear-gradient(180deg, blue, lightblue);
+    border:none;
+    box-shadow: none;
+    border-radius:5px;
+    padding:5px 15px;
+    color:white;
+    transition: 500ms;
+    cursor: pointer;
+    margin: 5PX 0;    
+}
+
+.country-box .detail button:hover{
+    background-color: blue;
+    background-image: none;
+}
