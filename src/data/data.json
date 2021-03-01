@@ -1,0 +1,113 @@
+[{
+  "id": 1,
+  "name": "Wilow Marland",
+  "career": 99,
+  "auction_money": 90,
+  "image": "https://robohash.org/nonquodmollitia.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 2,
+  "name": "Cherise Mendonca",
+  "career": 15,
+  "auction_money": 62,
+  "image": "https://robohash.org/omnisfugitatque.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 3,
+  "name": "Feliza Rowaszkiewicz",
+  "career": 15,
+  "auction_money": 82,
+  "image": "https://robohash.org/consequaturvitaeut.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 4,
+  "name": "Bonni Bridgett",
+  "career": 25,
+  "auction_money": 69,
+  "image": "https://robohash.org/officiaiurepariatur.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 5,
+  "name": "Zach Hallede",
+  "career": 96,
+  "auction_money": 77,
+  "image": "https://robohash.org/addeseruntea.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 6,
+  "name": "Briny Negri",
+  "career": 70,
+  "auction_money": 42,
+  "image": "https://robohash.org/quodveritatisaut.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 7,
+  "name": "Filia Roubeix",
+  "career": 65,
+  "auction_money": 84,
+  "image": "https://robohash.org/dolorehicdolorum.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 8,
+  "name": "Byron Sewill",
+  "career": 45,
+  "auction_money": 84,
+  "image": "https://robohash.org/mollitiaofficiisreprehenderit.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 9,
+  "name": "Agnola Gobbet",
+  "career": 97,
+  "auction_money": 71,
+  "image": "https://robohash.org/undeenimut.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 10,
+  "name": "Marybeth Demchen",
+  "career": 11,
+  "auction_money": 61,
+  "image": "https://robohash.org/asperiorescorporisfacere.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 11,
+  "name": "Jesus Coverlyn",
+  "career": 8,
+  "auction_money": 50,
+  "image": "https://robohash.org/doloresremanimi.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 12,
+  "name": "Vonnie Le Grand",
+  "career": 71,
+  "auction_money": 37,
+  "image": "https://robohash.org/omnisipsamsunt.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 13,
+  "name": "Farly Kingsmill",
+  "career": 4,
+  "auction_money": 87,
+  "image": "https://robohash.org/nullaexpeditaut.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 14,
+  "name": "Dene O'Carney",
+  "career": 16,
+  "auction_money": 98,
+  "image": "https://robohash.org/sapienteestsunt.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}, {
+  "id": 15,
+  "name": "Kayne Pudan",
+  "career": 19,
+  "auction_money": 28,
+  "image": "https://robohash.org/omnisnamreiciendis.jpg?size=50x50&set=set1",
+  "skill": "Bowler"
+}, {
+  "id": 16,
+  "name": "Carmella Wotton",
+  "career": 42,
+  "auction_money": 99,
+  "image": "https://robohash.org/quiaettempore.jpg?size=50x50&set=set1",
+  "skill": "Batsman"
+}]
